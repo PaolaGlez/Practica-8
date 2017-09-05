@@ -1,0 +1,52 @@
+	*{
+		margin:0;
+		padding:0;
+	}
+	
+	
+	body{
+	background-color:#E80C7A;
+	}
+	#encabezado {
+	background: #4A8BE8;
+	height: 220px;
+	text-align: center;
+	background-image: url("../img/logo.png");
+	background-repeat: no-repeat;
+	background-size: 250px 170px;
+	}
+	#menu{
+		height:40px;
+		position:relative;
+		top: 180px;
+		}
+    ul{
+		list-style-type: none;
+		margin:0;
+		padding:0;
+		overflow:hidden;
+		background-color:#28E4E8;
+		}
+    li {
+		float:left;
+		} 
+	li a{
+		display:block;
+		color: white;
+		text-align:left;
+		padding:20px;
+		text-decoration:none;
+	}
+	li a:hover{
+		background-color:black;
+	}
+    .areaPrincipal{
+		background-image: url("../img/fondo.png");
+		background-repeat:
+		width:
+		}
+		
+
+	
+	
+	
